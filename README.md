@@ -32,7 +32,7 @@ This is a minimal project allowing users to fund the contract owner with donatio
 ## Quickstart
 
 ```
-git clone https://github.com/shidiqqxyz/foundry-fund-me-cu
+git clone https://github.com/shidiqqxyz/foundry-fund-me-f26
 cd foundry-fund-me-cu
 make
 ```
